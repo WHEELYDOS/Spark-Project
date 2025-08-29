@@ -1,4 +1,4 @@
-# 🛒 Brazilian E-Commerce Data Analysis with PySpark on GCP Dataproc  
+# 🛒 Brazilian E-Commerce BIG DATA ENGINEERING & EXPLORATORY DATA ANALYSIS (EDA) with PySpark on GCP Dataproc  
 
 This project is a **complete big data pipeline** implemented using **Apache Spark (PySpark)** on **Google Cloud Dataproc** with **HDFS** and **Jupyter Notebook**.  
 The analysis is based on the [Olist Brazilian E-Commerce Public Dataset](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce/data?select=olist_geolocation_dataset.csv).  
